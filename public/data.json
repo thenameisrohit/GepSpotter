@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "profileImg": "/images/johndoe.jpg",
+    "name": "John Doe",
+    "email": "johndoe@gmail.com",
+    "phone": "987-456-7890",
+    "address": "123 Main St, City, Country",
+    "location": "Dubai",
+    "interests": ["Reading", "Traveling"],
+    "latitude": 25.1198608,
+    "longitude": 55.13112
+  },
+  {
+    "id": 2,
+    "profileImg": "/images/marybarra.jpg",
+    "name": "Mary Barra",
+    "email": "marybarra@gmail.com",
+    "phone": "987-654-3210",
+    "address": "456 Elm St, Town, Country",
+    "location": "Washington USA",
+    "interests": ["Hiking", "Photography"],
+    "latitude": 38.887666,
+    "longitude": -77.023373
+  },
+  {
+    "id": 3,
+    "profileImg": "/images/johnwilliam.jpg",
+    "name": "John William",
+    "email": "johnwilliam@gmail.com",
+    "phone": "755-895-5775",
+    "address": "9 veso St",
+    "location": "Austrila",
+    "interests": ["Riding", "Birdwatching"],
+    "latitude": -25.62860657713009,
+    "longitude": 121.40109352866445
+  },
+  {
+    "id": 4,
+    "profileImg": "/images/annajohnson.jpg",
+    "name": "Anna Johnson",
+    "email": "annajohnson@gmail.com",
+    "phone": "874-225-5897",
+    "address": "7 loa sent St",
+    "location": "Mexico",
+    "interests": ["Traveling", "Vloging"],
+    "latitude": 51.5074,
+    "longitude": -0.1278
+  },
+  {
+    "id": 5,
+    "profileImg": "/images/janesmith.jpg",
+    "name": "Jane Smith",
+    "email": "janesmith@gmail.com",
+    "phone": "888-345-2341",
+    "address": "33 Marry St, Village, Country",
+    "location": "Mumbai",
+    "interests": ["Cooking", "Painting"],
+    "latitude": 19.56405139687795,
+    "longitude": -99.16954676732206
+  },
+  {
+    "id": 6,
+    "profileImg": "/images/alicejohnson.jpg",
+    "name": "Alice Johnson",
+    "email": "alicejohnson@gmail.com",
+    "phone": "765-142-2995",
+    "address": "9 Laikipia",
+    "location": "Kenya",
+    "interests": ["Sports", "Cooking"],
+    "latitude": 0.20263360661582513,
+    "longitude": 37.00293043268074
+  },
+  {
+    "id": 7,
+    "profileImg": "/images/aadibrewer.jpg",
+    "name": "Aadi Brewer",
+    "email": "aadibrewer@gmail.com",
+    "phone": "865-214-5472",
+    "address": "79 Division Alley",
+    "location": "Birmingham",
+    "interests": ["Treaking", "Sports"],
+    "latitude": 33.55279362640895,
+    "longitude": -86.736581202537
+  }
+]

@@ -1,0 +1,27 @@
+/* Map container styling */
+.map-container {
+  width: 100%;
+  height: 400px; /* Adjust height as needed */
+  margin-bottom: 20px; /* Add space below map */
+}
+
+/* Adjust map size for medium-sized screens */
+@media (min-width: 768px) {
+  .map-container {
+    height: 300px; /* Decrease height for medium-sized screens */
+  }
+}
+
+/* Adjust map size for large screens */
+@media (min-width: 992px) {
+  .map-container {
+    height: 400px; /* Adjust height for large screens */
+  }
+}
+
+/* Adjust map size for extra-large screens */
+@media (min-width: 1200px) {
+  .map-container {
+    height: 500px; /* Adjust height for extra-large screens */
+  }
+}

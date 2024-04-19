@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+  background: transparent;
+}
+.transparent {
+  /* background-color: rgba(243, 243, 243, 0.2) !important; */
+  /* background: rgba(255, 255, 255, 0.159) !important;  */
+  /* backdrop-filter: blur(10px) !important; */
+  background-color: #f1f1f139 !important;
+  backdrop-filter: blur(10px) !important;
+  border: none !important;
+  color: white !important;
+}
+.transparent::placeholder {
+  color: #999 !important; /* Adjust color as needed */
+}
+
+.white_color {
+  color: white !important;
+}
+
+.c_transparent {
+  background: rgba(0, 0, 0, 0.504) !important; /* Adjust opacity as needed */
+  border: none !important;
+}
