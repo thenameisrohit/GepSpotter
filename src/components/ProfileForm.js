@@ -36,7 +36,7 @@ const ProfileForm = ({ onSubmit }) => {
   return (
     <Form className="transparent" onSubmit={handleSubmit}>
       <Form.Group controlId="formName">
-        <Form.Label>Name</Form.Label>
+        <Form.Label style={{ color: "black" }}>Name</Form.Label>
         <Form.Control
           type="text"
           name="name"
@@ -45,7 +45,7 @@ const ProfileForm = ({ onSubmit }) => {
         />
       </Form.Group>
       <Form.Group controlId="formEmail">
-        <Form.Label>Email</Form.Label>
+        <Form.Label style={{ color: "black" }}>Email</Form.Label>
         <Form.Control
           type="email"
           name="email"
@@ -54,7 +54,7 @@ const ProfileForm = ({ onSubmit }) => {
         />
       </Form.Group>
       <Form.Group controlId="formPhone">
-        <Form.Label>Phone</Form.Label>
+        <Form.Label style={{ color: "black" }}>Phone</Form.Label>
         <Form.Control
           type="text"
           name="phone"
@@ -63,7 +63,7 @@ const ProfileForm = ({ onSubmit }) => {
         />
       </Form.Group>
       <Form.Group controlId="formAddress">
-        <Form.Label>Address</Form.Label>
+        <Form.Label style={{ color: "black" }}>Address</Form.Label>
         <Form.Control
           type="text"
           name="address"
@@ -72,7 +72,7 @@ const ProfileForm = ({ onSubmit }) => {
         />
       </Form.Group>
       <Form.Group controlId="formInterests">
-        <Form.Label>Interests</Form.Label>
+        <Form.Label style={{ color: "black" }}>Interests</Form.Label>
         <Form.Control
           type="text"
           name="interests"
@@ -81,7 +81,7 @@ const ProfileForm = ({ onSubmit }) => {
         />
       </Form.Group>
       <Form.Group controlId="formImage">
-        <Form.Label>Image</Form.Label>
+        <Form.Label style={{ color: "black" }}>Image</Form.Label>
         <Form.Control
           type="file"
           accept="image/*"
